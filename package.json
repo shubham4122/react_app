@@ -1,0 +1,5 @@
+{
+    "publishConfig": {
+    "@shubham4122:registry":"https://npm.pkg.github.com"
+}
+}
